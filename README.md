@@ -56,3 +56,10 @@ Features
  Fallback message when no data is found
 
 ```
+
+### for testing frontend .ev
+
+``bash
+NEXT_PUBLIC_API_BASE=http://127.0.0.1:8000/api
+
+```
